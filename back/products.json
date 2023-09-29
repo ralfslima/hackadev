@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product_name": "Headphone Gamer",
+      "category": "Gamer",
+      "description": "lorem ipsum jsjdd dkdjff",
+      "image": "assets/img/Headphone.jpg",
+      "price": 127.25
+    },
+    {
+      "id": 2,
+      "product_name": "Headphone Gamer 2",
+      "category": "Gamer",
+      "description": "lorem ipsum aaass ",
+      "image": "assets/img/Headphone2.jpg",
+      "price": 127.25
+    },
+    {
+      "id": 3,
+      "product_name": "Headphone Gamer 3",
+      "category": "Gamer",
+      "description": "lorem ipsum aaass ",
+      "image": "assets/img/Headphone3.jpg",
+      "price": 127.25
+    },
+    {
+      "id": 4,
+      "product_name": "Teste",
+      "category": "Categoria",
+      "description": "Descrição",
+      "image": "Imagem",
+      "price": 29
+    },
+    {
+      "id": 5,
+      "product_name": "Teste",
+      "category": "Categoria",
+      "description": "Descrição",
+      "image": "Imagem",
+      "price": 29
+    }
+  ]
+}
